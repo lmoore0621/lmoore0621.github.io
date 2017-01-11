@@ -85,5 +85,5 @@ main {
 
 .main-style {
     float: inherit;
-    width: 0;
+    width: 100%;
 }
