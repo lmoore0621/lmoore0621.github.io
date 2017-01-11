@@ -6,6 +6,10 @@ div {
     height: 70px;
 }
 
+ul {
+    list-style: none;
+}
+
 body {
     background-color: #006BB6;
 }
@@ -13,7 +17,7 @@ body {
 nav {
     background-color: #FDB927;
     float: left;
-    list-style: none;
+    
 }
 
 #container {
