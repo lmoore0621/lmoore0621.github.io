@@ -57,7 +57,9 @@ aside section {
 }
 
 section {
-    margin: 2rem;
+    margin-left: 2rem;
+    margin-right: 0;
+    padding: 1rem;
 }
 
 #aside {
