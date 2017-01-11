@@ -67,11 +67,12 @@ section {
 
 aside {
     float: left;
+    padding-right: 0;
 }
 
 main {
     float: left;
-    width: 73.4%;
+    width: 63.9%;
 }
 
 .clearfix:after {
