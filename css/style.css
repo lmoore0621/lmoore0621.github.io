@@ -1,0 +1,80 @@
+div {
+    display: block;
+}
+
+#navi-logo {
+    height: 70px;
+}
+
+body {
+    background-color: #006BB6;
+}
+
+nav {
+    background-color: #FDB927;
+}
+
+#container {
+    background-color: #FDB927;
+}
+
+figure {
+    border: 2px solid;
+    padding: 1rem; 
+    background-color: #006BB6;
+}
+
+figure img {
+    width: 100%
+}
+
+figcaption {
+    font-weight: bold;
+    color: white;
+}
+
+#main-header {
+    text-align: center;
+}
+
+#Pfooter {
+    margin: 0px;
+}
+
+main, section, article, aside, footer, header, nav, hgroup {
+    display: block;
+}
+
+aside, article {
+    padding: 1rem;
+    padding-top: 0px;
+}
+
+aside section {
+    border: 1px solid #006BB6;
+    margin-bottom: 1rem;
+    width: 25%;
+}
+
+section {
+    margin-left: 31rem;
+}
+
+#aside {
+    text-align: center;
+}
+
+li {
+    margin: 0px;
+}
+
+
+aside {
+    float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
