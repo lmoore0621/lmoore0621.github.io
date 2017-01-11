@@ -59,7 +59,7 @@ aside section {
 section {
     margin-left: 2rem;
     margin-right: 0;
-    padding: 1rem;
+    padding: .5rem;
 }
 
 #aside {
@@ -69,11 +69,12 @@ section {
 aside {
     float: left;
     padding-right: 0;
+    width: 28%;
 }
 
 main {
     float: left;
-    width: 63.9%;
+    width: 68%;
 }
 
 .clearfix:after {
