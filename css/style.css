@@ -84,5 +84,6 @@ main {
 }
 
 .main-style {
-    background: 0;
+    float: inherit;
+    width: 0;
 }
