@@ -53,11 +53,12 @@ aside, article {
 aside section {
     border: 1px solid #006BB6;
     margin-bottom: 1rem;
-    width: 25%;
+    padding-bottom: 100%;
+    align-content: center;
 }
 
 section {
-    margin-left: 1rem;
+    margin-left: 2rem;
 }
 
 #aside {
@@ -66,12 +67,11 @@ section {
 
 aside {
     float: left;
-    width: 20%;
 }
 
 main {
     float: left;
-    width: 50%;
+    width: 73.4%;
 }
 
 .clearfix:after {
