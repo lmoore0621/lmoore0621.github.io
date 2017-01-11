@@ -65,7 +65,13 @@ section {
 }
 
 aside {
-    float: right;
+    float: left;
+    width: 20%;
+}
+
+main {
+    float: left;
+    width: 50%;
 }
 
 .clearfix:after {
