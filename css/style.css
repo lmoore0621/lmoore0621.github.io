@@ -92,7 +92,7 @@ main {
     width: 100%;
 }
 
-li{
+.nav-list {
     float: left;
 }
 
