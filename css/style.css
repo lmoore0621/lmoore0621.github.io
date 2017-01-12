@@ -4,6 +4,7 @@ div {
 
 #navi-logo {
     height: 70px;
+    float: left;
 }
 
 ul {
@@ -90,4 +91,8 @@ main {
 .main-style {
     float: inherit;
     width: 100%;
+}
+
+li {
+    float: left;
 }
