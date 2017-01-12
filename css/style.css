@@ -3,7 +3,8 @@ div {
 }
 
 #navi-logo {
-    height: 70px;
+    height: 5rem;
+    float: left;
 }
 
 ul {
