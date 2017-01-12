@@ -88,7 +88,11 @@ main {
 }
 
 .main-style {
-    float: inherit;
+    float: none;
     width: 100%;
+}
+
+li{
+    float: left;
 }
 
