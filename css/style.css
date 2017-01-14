@@ -74,17 +74,6 @@ section {
     text-align: center;
 }
 
-aside {
-    float: left;
-    padding-right: 0;
-    width: 28%;
-}
-
-main {
-    float: left;
-    width: 68%;
-}
-
 .clearfix:after {
   content: "";
   display: table;
@@ -110,3 +99,15 @@ main {
   margin-bottom: 1rem;
 }
 
+@media (min-width: 800px) {
+    aside {
+    float: left;
+    padding-right: 0;
+    width: 28%;
+}
+
+main {
+    float: left;
+    width: 68%;
+}
+}
