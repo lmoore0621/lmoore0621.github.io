@@ -22,12 +22,14 @@ nav {
 
 #container {
     background-color: #FDB927;
+    width: 100%;
 }
 
 figure {
     border: 2px solid;
     padding: 1rem; 
     background-color: #006BB6;
+    float: left;
 }
 
 figure img {
