@@ -69,6 +69,9 @@ section {
     margin-right: 0;
     padding: .5rem;
 }
+aside {
+    margin-right: 1.5rem;
+}
 
 #aside {
     text-align: center;
