@@ -8,6 +8,15 @@ div {
     margin-right: 15%;
 }
 
+#home {
+    padding-right: 0;
+}
+
+#community {
+    padding-left: 0;
+    padding-right: 2rem; 
+}
+
 ul {
     list-style: none;
 }
