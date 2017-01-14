@@ -5,15 +5,17 @@ div {
 #navi-logo {
     height: 5rem;
     float: left;
-    margin-right: 15%;
+}
+
+#aboutus {
+    padding-left: 0;
 }
 
 #home {
-    padding-right: 0;
+    padding-right: 1rem;
 }
 
 #community {
-    padding-left: 0;
     padding-right: 2rem; 
 }
 
@@ -99,10 +101,8 @@ aside {
 
 .nav-list {
     float: left;
-    width:15%;
     padding: 1rem;
     margin-top:1rem;
-    font-size: 1.5rem;
 }
 
 .clearfixnav:after {
