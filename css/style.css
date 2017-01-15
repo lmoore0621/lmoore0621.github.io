@@ -122,13 +122,38 @@ aside {
 
 @media (min-width: 800px) {
     aside {
-    float: left;
-    padding-right: 0;
-    width: 28%;
+        float: left;
+        padding-right: 0;
+        width: 28%;
 }
 
-main {
-    float: left;
-    width: 68%;
+    main {
+        float: left;
+        width: 68%;
 }
+
+    #navi-logo {
+        height: 5rem;
+        float: left;
+        padding-right: 19%;
+    }
+
+    #home {
+        padding-right: 10%;
+    }
+
+    .nav-list {
+        float: left;
+        padding: 1rem;
+        font-size: 2rem;
+    }
+
+    #community {
+        padding-right: 10%;
+        padding-left: 0;
+    }
+
+    #aboutus {
+        padding-left: 0;
+    }
 }
