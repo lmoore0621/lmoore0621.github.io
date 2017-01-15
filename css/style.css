@@ -12,7 +12,11 @@ div {
 }
 
 #home {
-    padding-right: 1rem;
+    padding-right: .5rem;
+}
+
+#community {
+    padding-right: .5rem; 
 }
 
 ul {
