@@ -17,6 +17,7 @@ div {
 
 #community {
     padding-right: .5rem; 
+    padding-left: 0;
 }
 
 ul {
@@ -40,7 +41,8 @@ figure {
     border: 2px solid;
     padding: 1rem; 
     background-color: #006BB6;
-    float: left;
+    width: 89%;
+    margin-left: 0rem;
 }
 
 figure img {
@@ -50,10 +52,12 @@ figure img {
 figcaption {
     font-weight: bold;
     color: white;
+    font-size: .65rem;
 }
 
 #main-header {
     text-align: center;
+    padding-top: 1rem;
 }
 
 #Pfooter {
@@ -66,7 +70,8 @@ main, section, article, aside, footer, header, nav, hgroup {
 
 aside, article {
     padding: 1rem;
-    padding-top: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 aside section {
@@ -82,6 +87,8 @@ section {
 }
 aside {
     margin-right: 1.5rem;
+    width: 22rem;
+    margin-left: -2rem;
 }
 
 #aside {
@@ -103,7 +110,7 @@ aside {
     float: left;
     padding: 1rem;
     margin-top:1rem;
-    font-size: .5rem;
+    font-size: 1rem;
 }
 
 .clearfixnav:after {
