@@ -135,7 +135,7 @@ aside {
     #navi-logo {
         height: 5rem;
         float: left;
-        padding-right: 19%;
+        padding-right: 22%;
     }
 
     #home {
@@ -146,6 +146,7 @@ aside {
         float: left;
         padding: 1rem;
         font-size: 2rem;
+        margin-top: 0;
     }
 
     #community {
