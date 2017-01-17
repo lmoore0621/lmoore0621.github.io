@@ -157,4 +157,8 @@ aside {
     #aboutus {
         padding-left: 0;
     }
+
+    figure {
+    margin-left: 2rem;
+}
 }
